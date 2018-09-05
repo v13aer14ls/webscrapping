@@ -24,3 +24,6 @@ if title == None:
     print ('Title could not be found !')
 else:
     print(title)
+
+
+#Só deus sabe porque o erro tá rolando 
